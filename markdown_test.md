@@ -1,9 +1,4 @@
-# A Tutorial of Markdown
-
-## 0.Introduction
-The unfinished tutorial is written by CloudyZhao, and will continue to be updated until the end. Maybe this is not a tutorial, but a study note about Markdown, which is made public in this repository to facilitate sharing and discussion with others. Please point out any errors in issues, and I would like to express my heartfelt thanks.
-
-## 1.
+1.
 # 一级标题
 
 ## 二级标题
@@ -63,4 +58,3 @@ __这行文本是粗体__
 key引用：[Markdown指南]
 
 value引用：[未定义文本][Markdown指南]
-
